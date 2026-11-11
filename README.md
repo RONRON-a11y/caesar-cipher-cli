@@ -26,5 +26,8 @@ python caesar.py decrypt "Tlla ha aol zljyla ihzl" -k 7
 python caesar.py crack "Tlla ha aol zljyla ihzl"
 ```
 
+## Disclaimer
+This project is built strictly for educational purposes, puzzles, and learning the basics of classical cryptography. Because the Caesar Cipher only has 25 possible shift keys, it offers zero real-world security and can be cracked in milliseconds (as shown by the built-in `crack` mode). **Do not use this tool to protect passwords, personal data, or sensitive information.**
+
 ## License
 This project is licensed under the MIT License.
